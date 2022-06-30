@@ -47,5 +47,5 @@ None
 
 ### Footer
 
-Last updated: June 2022 -->
+Last updated: June 2022
 
